@@ -1,0 +1,1 @@
+console.log("Name: Franklyn, Age: 26, Favorite programming language: JavaScript");
